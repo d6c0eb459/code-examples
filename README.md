@@ -4,6 +4,11 @@ A few examples of code that I've written.
 
 ## Python
 
+Notebook experiment to predict image properties like RGB and reflectivity using CNNs and
+Blender:
+
+[Material Eyedropper](Material_Eyedropper.ipynb)
+
 Documented code complete with unit tests, passes `pylint` and `black` autoformatting:
 
 [Three Card Poker, 2020](three_card_poker.py)
